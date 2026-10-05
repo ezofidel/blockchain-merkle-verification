@@ -1,0 +1,4 @@
+﻿Test;Signer;Blockchain Authorization;Expected Result;Final Result;Test Passed
+Authorized Signer;Main Authorized Key;True;ACCEPTED;ACCEPTED;YES
+Never Authorized Attacker;Attacker Key;False;REJECTED;REJECTED;YES
+Revoked Signer;Previously Authorized Key;False;REJECTED;REJECTED;YES

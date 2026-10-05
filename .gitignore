@@ -1,0 +1,31 @@
+# Environment / credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private/public key material
+keys/
+attacker_keys/
+*.pem
+
+# Generated signatures
+signatures/
+provenance_signatures/
+
+# Full datasets / generated JSON collections
+orijinal_jsonlar/
+kontrol_jsonlar/
+json/
+DIOR/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

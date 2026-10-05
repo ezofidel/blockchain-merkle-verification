@@ -1,0 +1,4 @@
+﻿JSON Count;Tree Repeat Count;Random Proof Count;Tree Build Mean (ms);Tree Build Std (ms);Proof Generation Mean (us);Proof Generation Std (us);Proof Verification Mean (us);Proof Verification Std (us);Proof Length Mean;Proof Length Min;Proof Length Max;Valid Proof Count;Total Proof Count
+100;5;50;0.1701;0.014574;7.912;4.384231;15.822;4.432592;7;7;7;50;50
+1000;5;50;2.0298;0.685084;24.204;11.476506;27.39;7.795819;10;10;10;50;50
+2229;5;50;4.74382;1.362669;47.612;33.342769;30.14;9.132762;12;12;12;50;50
